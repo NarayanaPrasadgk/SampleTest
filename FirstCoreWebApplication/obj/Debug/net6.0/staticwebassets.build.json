@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "mmTNj3+UhEcdsiWdMonAPL/dPzzt+zLeuc7OfK2K8Xs=",
+  "Source": "FirstCoreWebApplication",
+  "BasePath": "_content/FirstCoreWebApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FirstCoreWebApplication\\wwwroot",
+      "Source": "FirstCoreWebApplication",
+      "ContentRoot": "D:\\My Projects\\FirstCoreWebApplication\\wwwroot\\",
+      "BasePath": "_content/FirstCoreWebApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\My Projects\\FirstCoreWebApplication\\wwwroot\\index.html",
+      "SourceId": "FirstCoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Projects\\FirstCoreWebApplication\\wwwroot\\",
+      "BasePath": "_content/FirstCoreWebApplication",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "D:\\My Projects\\FirstCoreWebApplication\\wwwroot\\mycustompage1.html",
+      "SourceId": "FirstCoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Projects\\FirstCoreWebApplication\\wwwroot\\",
+      "BasePath": "_content/FirstCoreWebApplication",
+      "RelativePath": "mycustompage1.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\mycustompage1.html"
+    },
+    {
+      "Identity": "D:\\My Projects\\FirstCoreWebApplication\\wwwroot\\MyImage.png",
+      "SourceId": "FirstCoreWebApplication",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\My Projects\\FirstCoreWebApplication\\wwwroot\\",
+      "BasePath": "_content/FirstCoreWebApplication",
+      "RelativePath": "MyImage.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MyImage.png"
+    }
+  ]
+}
